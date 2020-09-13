@@ -1,0 +1,19 @@
+vhdl xil_defaultlib  \
+"../../../bd/selection_sort_design/ipshared/adc9/src/addr_mux.vhd" \
+"../../../bd/selection_sort_design/ipshared/adc9/src/comparator.vhd" \
+"../../../bd/selection_sort_design/ipshared/adc9/src/control.vhd" \
+"../../../bd/selection_sort_design/ipshared/adc9/src/counter.vhd" \
+"../../../bd/selection_sort_design/ipshared/adc9/src/data_mux.vhd" \
+"../../../bd/selection_sort_design/ipshared/adc9/src/reg.vhd" \
+"../../../bd/selection_sort_design/ipshared/adc9/hdl/selection_sort_v1_0_S00_AXI.vhd" \
+"../../../bd/selection_sort_design/ipshared/adc9/src/top_selection_sort.vhd" \
+"../../../bd/selection_sort_design/ipshared/adc9/hdl/selection_sort_v1_0.vhd" \
+"../../../bd/selection_sort_design/ip/selection_sort_design_selection_sort_0_0/sim/selection_sort_design_selection_sort_0_0.vhd" \
+"../../../bd/selection_sort_design/ip/selection_sort_design_rst_ps7_0_100M_0/sim/selection_sort_design_rst_ps7_0_100M_0.vhd" \
+"../../../bd/selection_sort_design/ipshared/3b69/hdl/sort_controller_v1_0_S00_AXI.vhd" \
+"../../../bd/selection_sort_design/ipshared/3b69/src/top.vhd" \
+"../../../bd/selection_sort_design/ipshared/3b69/hdl/sort_controller_v1_0.vhd" \
+"../../../bd/selection_sort_design/ip/selection_sort_design_sort_controller_0_0/sim/selection_sort_design_sort_controller_0_0.vhd" \
+"../../../bd/selection_sort_design/sim/selection_sort_design.vhd" \
+
+nosort
